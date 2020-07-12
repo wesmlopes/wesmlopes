@@ -1,7 +1,7 @@
 ## Olá, pessoas! 👋
 
 Meu nome é Wesley, tenho 22 anos e comecei recentemente a me aventurar no mundo dos códigos.
-<p>Trabalho atualmente na [Univap](https://www.univap.br/universidade.html/) e estou em busca de uma transição de
+<p>Trabalho atualmente na <a href="https://www.univap.br">Univap</a> e estou em busca de uma transição de
 carreira após me graduar e atuar na área de Marketing e Mídias Digitais por 3 anos.
 <p>Estou a disposição para encarar novos desafios na área de Desenvolvimento de Software.
 
